@@ -1,0 +1,8840 @@
+Date - 22:28:47,385
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:47,445
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:47,457
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:47,468
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:48,063
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:48,075
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 91
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:48,086
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:48,098
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 101
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:48,109
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 99
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:48,120
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 91.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:58,187
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:58,199
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:58,211
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:28:58,222
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:29:30,010
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 4683
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:29:30,021
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 5156
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:29:30,032
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 4201
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:29:30,043
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 4754
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:29:30,054
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 5030
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 22:29:30,065
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 4764.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:16,210
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:16,427
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:16,442
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:16,458
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:51,209
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 5492
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:51,223
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 5626
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:51,236
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 5418
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:51,253
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 5301
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:51,272
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 5483
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:50:51,290
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 5464
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:08,822
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:08,838
+Thread - [6]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:08,853
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:08,869
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:10,195
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 249
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:10,202
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 213
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:10,218
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 179
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:10,234
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 252
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:10,234
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 197
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:10,249
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 218
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:13,649
+Thread - [11]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:13,665
+Thread - [11]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:13,681
+Thread - [11]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:13,700
+Thread - [11]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,080
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 01: 235
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,096
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 02: 225
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,112
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 03: 169
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,112
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 04: 223
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,127
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 05: 193
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,143
+Thread - [11]
+Level - INFO
+Message - Average Time taken: 209
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,196
+Thread - [21]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,212
+Thread - [21]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,228
+Thread - [21]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:15,228
+Thread - [21]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,556
+Thread - [21]
+Level - INFO
+Message - Time taken for Run # 01: 229
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,572
+Thread - [21]
+Level - INFO
+Message - Time taken for Run # 02: 207
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,578
+Thread - [21]
+Level - INFO
+Message - Time taken for Run # 03: 208
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,593
+Thread - [21]
+Level - INFO
+Message - Time taken for Run # 04: 181
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,593
+Thread - [21]
+Level - INFO
+Message - Time taken for Run # 05: 166
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,609
+Thread - [21]
+Level - INFO
+Message - Average Time taken: 198.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,677
+Thread - [18]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,677
+Thread - [18]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,709
+Thread - [18]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:16,724
+Thread - [18]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:18,128
+Thread - [18]
+Level - INFO
+Message - Time taken for Run # 01: 249
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:18,131
+Thread - [18]
+Level - INFO
+Message - Time taken for Run # 02: 168
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:18,146
+Thread - [18]
+Level - INFO
+Message - Time taken for Run # 03: 214
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:18,162
+Thread - [18]
+Level - INFO
+Message - Time taken for Run # 04: 164
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:18,178
+Thread - [18]
+Level - INFO
+Message - Time taken for Run # 05: 216
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:18,193
+Thread - [18]
+Level - INFO
+Message - Average Time taken: 202.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:22,613
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:22,635
+Thread - [8]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:22,635
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:51:22,651
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:52:39,548
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 15865
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:52:39,563
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 16120
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:52:39,579
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 13399
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:52:39,579
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 14323
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:52:39,601
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 14587
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 12:52:39,617
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 14858.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:13:29,285
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:14:08,328
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:42,537
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:42,596
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:42,608
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:42,619
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:43,245
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:43,259
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 114
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:43,270
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 85
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:43,286
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:43,298
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 99
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:43,310
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 92
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:46,320
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:46,371
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:46,387
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:46,404
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:47,041
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 98
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:47,052
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 99
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:47,064
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:47,075
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 107
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:47,087
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:47,098
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 90.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,213
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,229
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,240
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,251
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,879
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 111
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,891
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 76
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,932
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 114
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,947
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 76
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,958
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 104
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:50,976
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 96.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:52,891
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:52,904
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:52,916
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:52,928
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:53,607
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:53,618
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:53,630
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 76
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:53,641
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 96
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:53,652
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 129
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:53,663
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 96.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,048
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,060
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,072
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,083
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,722
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 108
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,734
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,746
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 87
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,757
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 118
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,767
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 77
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:55,779
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 95.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:58,630
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:58,643
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:58,656
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:58,667
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:59,307
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 94
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:59,318
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 95
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:59,329
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 85
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:59,341
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 109
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:59,351
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:26:59,363
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 91.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:27:34,353
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:27:34,366
+Thread - [5]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:27:34,378
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:27:34,389
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:25,265
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 9231
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:25,283
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 9701
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:25,303
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 11757
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:25,316
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 10647
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:25,333
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 9203
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:25,348
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 10107.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:42,473
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:42,485
+Thread - [5]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:42,498
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:28:42,510
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:42,292
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 12865
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:42,307
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 12538
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:42,320
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 13188
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:42,338
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 11679
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:42,367
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 9158
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:42,388
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 11885.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:54,540
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:54,553
+Thread - [5]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:54,564
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:29:54,575
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:30:53,351
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 11894
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:30:53,364
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 9750
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:30:53,378
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 15170
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:30:53,391
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 13384
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:30:53,402
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 8364
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:30:53,421
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 11712.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:31:11,977
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:31:11,991
+Thread - [5]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:31:12,003
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:31:12,014
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:35:39,740
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 57335
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:35:39,753
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 49412
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:35:39,767
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 53651
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:35:39,783
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 43377
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:35:39,798
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 63136
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:35:39,819
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 53382.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:36:15,371
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:36:15,383
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:36:15,396
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:36:15,409
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:42:48,944
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 78536
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:42:48,956
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 78120
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:42:48,967
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 78775
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:42:48,986
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 77348
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:42:48,997
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 79891
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 13:42:49,009
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 78534
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:25,344
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:25,357
+Thread - [5]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:25,370
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:25,386
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:26,141
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 115
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:26,154
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 94
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:26,169
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 149
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:26,181
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:26,199
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 111
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:26,211
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 112.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:35,809
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:35,861
+Thread - [6]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:35,874
+Thread - [6]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:35,887
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:36,663
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 96
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:36,677
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 108
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:36,689
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 102
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:36,703
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 121
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:36,717
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:20:36,732
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 103.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:01,820
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:01,892
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:01,904
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:01,916
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:02,667
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 109
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:02,678
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 113
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:02,689
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:02,701
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 114
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:02,717
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 77
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:02,727
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 102.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:03,805
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:03,817
+Thread - [5]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:03,828
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:03,841
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:04,579
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 123
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:04,593
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 118
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:04,605
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:04,620
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 103
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:04,633
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 111
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:04,645
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 109.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:05,472
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:05,484
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:05,526
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:05,543
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:06,280
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 109
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:06,294
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 98
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:06,307
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 84
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:06,322
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 142
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:06,340
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 87
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:06,355
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 104
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,109
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,120
+Thread - [5]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,133
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,145
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,892
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 129
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,904
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 91
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,917
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 81
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,929
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 148
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,940
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:07,951
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 104.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:08,675
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:08,687
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:08,697
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:08,708
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:09,445
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 118
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:09,458
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:09,473
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 128
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:09,483
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 79
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:09,495
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 134
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:09,509
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 106.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:10,302
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:10,318
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:10,334
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:10,365
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:11,135
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 110
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:11,147
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:11,159
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 115
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:11,170
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:11,186
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 86
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:11,198
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 98.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:12,551
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:12,562
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:12,573
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:12,585
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:13,353
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 112
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:13,366
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 148
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:13,379
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:13,392
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 106
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:13,405
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 118
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:13,420
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 114.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:26,096
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:26,109
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:26,121
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:21:26,132
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:36,385
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 13926
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:36,399
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 13935
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:36,412
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 14168
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:36,423
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 13949
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:36,436
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 13815
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:36,449
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 13958.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:58,569
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:58,584
+Thread - [5]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:58,595
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:22:58,606
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:04,014
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 11682
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:04,032
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 11407
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:04,055
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 13395
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:04,070
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 15649
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:04,081
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 12570
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:04,095
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 12940.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:33,281
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:33,299
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:33,316
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:24:33,358
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:30:46,510
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 76936
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:30:46,522
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 63927
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:30:46,539
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 67546
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:30:46,550
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 81565
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:30:46,561
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 81905
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:30:46,573
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 74375.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:31:15,901
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:31:15,912
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:31:15,924
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:31:15,941
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:22,358
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:22,425
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:22,438
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:22,449
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:24,697
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 586
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:24,710
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 475
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:24,721
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 376
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:24,732
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 361
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:24,743
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 355
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:24,755
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 430.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:26,564
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:26,575
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:26,587
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:26,598
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:29,550
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 590
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:29,562
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 564
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:29,580
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 552
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:29,592
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 576
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:29,603
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 571
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:29,614
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 570.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:30,497
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:30,509
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:30,522
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:30,534
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:33,271
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 516
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:33,291
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 372
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:33,303
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 568
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:33,314
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 610
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:33,325
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 578
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:33,337
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 528.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:34,090
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:34,102
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:34,113
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:34,125
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:37,223
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 608
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:37,234
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 597
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:37,245
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 606
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:37,257
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 571
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:37,276
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 608
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:37,287
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 598
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:38,325
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:38,337
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:38,350
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:38,361
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:41,515
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 635
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:41,527
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 636
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:41,538
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 617
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:41,549
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 589
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:41,562
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 587
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:41,574
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 612.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:53,607
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:53,620
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:53,632
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:33:53,642
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:37:18,794
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 41055
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:37:18,896
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 44008
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:37:18,908
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 41293
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:37:18,918
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 39355
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:37:18,933
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 37352
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:37:18,944
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 40612.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:39:07,440
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:39:07,452
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:39:07,465
+Thread - [4]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:39:07,477
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:42:03,914
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 33996
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:42:03,931
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 35455
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:42:03,957
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 36280
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:42:03,983
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 33174
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:42:03,996
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 35710
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:42:04,013
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 34923
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:43:24,850
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:43:24,863
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:43:24,874
+Thread - [5]
+Level - INFO
+Message - Threading type: Single Thread
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:43:24,887
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:02,522
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 132166
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:02,527
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 80638
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:02,533
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 80369
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:02,538
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 80842
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:02,542
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 80370
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:02,546
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 90877
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:57,840
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:57,845
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:57,849
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:57,856
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:58,393
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 151
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:58,397
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 95
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:58,402
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 74
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:58,407
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 77
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:58,413
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 74
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:58,417
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 94.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,274
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,278
+Thread - [5]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,284
+Thread - [5]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,288
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,779
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 136
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,784
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,790
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 81
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,794
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 71
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,798
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 68
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:51:59,803
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 89.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:00,618
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:00,623
+Thread - [6]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:00,628
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:00,632
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,107
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 134
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,112
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 84
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,117
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,123
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 69
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,127
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 64
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,131
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 83.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,882
+Thread - [9]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,886
+Thread - [9]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,892
+Thread - [9]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:01,896
+Thread - [9]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:02,413
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 01: 143
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:02,418
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 02: 92
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:02,422
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 03: 90
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:02,427
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 04: 70
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:02,431
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 05: 63
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:02,435
+Thread - [9]
+Level - INFO
+Message - Average Time taken: 91.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,216
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,221
+Thread - [6]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,227
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,231
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,752
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 130
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,757
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 108
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,761
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,765
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,770
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 69
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:03,775
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 90.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,470
+Thread - [9]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,475
+Thread - [9]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,480
+Thread - [9]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,484
+Thread - [9]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,937
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 01: 132
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,943
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 02: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,947
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 03: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,951
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 04: 58
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,957
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 05: 74
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:04,962
+Thread - [9]
+Level - INFO
+Message - Average Time taken: 85.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:05,935
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:05,940
+Thread - [8]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:05,945
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:05,949
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:06,405
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 126
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:06,409
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 94
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:06,419
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 74
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:06,425
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 72
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:06,430
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 63
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:06,434
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 85.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:21,534
+Thread - [9]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:21,539
+Thread - [9]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:21,545
+Thread - [9]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:21,552
+Thread - [9]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:33,474
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 01: 1680
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:33,482
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 02: 1570
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:33,486
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 03: 2015
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:33,491
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 04: 1993
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:33,496
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 05: 1708
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:33,500
+Thread - [9]
+Level - INFO
+Message - Average Time taken: 1793.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:49,504
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:49,510
+Thread - [5]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:49,515
+Thread - [5]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:52:49,519
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:03,184
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 1853
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:03,190
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 2231
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:03,197
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 2213
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:03,201
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 1974
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:03,205
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 2087
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:03,210
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 2071.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:26,661
+Thread - [7]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:26,667
+Thread - [7]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:26,672
+Thread - [7]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:26,676
+Thread - [7]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:40,122
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 01: 2560
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:40,130
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 02: 2031
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:40,135
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 03: 1932
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:40,140
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 04: 1890
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:40,144
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 05: 1861
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:40,151
+Thread - [7]
+Level - INFO
+Message - Average Time taken: 2054.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:45,819
+Thread - [25]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:45,825
+Thread - [25]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:45,830
+Thread - [25]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:45,834
+Thread - [25]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:59,218
+Thread - [25]
+Level - INFO
+Message - Time taken for Run # 01: 2063
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:59,224
+Thread - [25]
+Level - INFO
+Message - Time taken for Run # 02: 2044
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:59,228
+Thread - [25]
+Level - INFO
+Message - Time taken for Run # 03: 1995
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:59,235
+Thread - [25]
+Level - INFO
+Message - Time taken for Run # 04: 2109
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:59,241
+Thread - [25]
+Level - INFO
+Message - Time taken for Run # 05: 1868
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:53:59,245
+Thread - [25]
+Level - INFO
+Message - Average Time taken: 2015.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:54:29,708
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:54:29,734
+Thread - [4]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:54:29,739
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:54:29,743
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:33,640
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 10815
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:33,647
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 10530
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:33,651
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 11548
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:33,658
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 10865
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:33,662
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 11437
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:33,666
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 11039
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:58,572
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:58,577
+Thread - [8]
+Level - INFO
+Message - Data type: Integer
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:58,584
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:55:58,588
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:57:04,758
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 10222
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:57:04,766
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 11442
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:57:04,771
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 10095
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:57:04,776
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 10948
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:57:04,781
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 10228
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:57:04,785
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 10587
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:14,741
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:14,766
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:14,770
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:14,774
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:15,255
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 132
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:15,260
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 107
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:15,268
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:15,272
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:15,277
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 74
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:58:15,282
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 91
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,242
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,247
+Thread - [8]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,251
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,256
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,769
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 134
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,773
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 103
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,790
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 79
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,794
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 72
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,799
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 71
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:22,804
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 91.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:23,506
+Thread - [9]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:23,510
+Thread - [9]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:23,516
+Thread - [9]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:23,520
+Thread - [9]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,001
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 01: 136
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,006
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 02: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,011
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 03: 71
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,015
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 04: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,020
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 05: 78
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,024
+Thread - [9]
+Level - INFO
+Message - Average Time taken: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,769
+Thread - [7]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,774
+Thread - [7]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,778
+Thread - [7]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:24,783
+Thread - [7]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:25,272
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 01: 135
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:25,277
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 02: 107
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:25,281
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 03: 85
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:25,288
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 04: 70
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:25,305
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 05: 63
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:25,311
+Thread - [7]
+Level - INFO
+Message - Average Time taken: 92
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,043
+Thread - [9]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,048
+Thread - [9]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,052
+Thread - [9]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,056
+Thread - [9]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,520
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 01: 131
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,525
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 02: 102
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,529
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 03: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,534
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 04: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,539
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 05: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:26,544
+Thread - [9]
+Level - INFO
+Message - Average Time taken: 89.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,487
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,492
+Thread - [8]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,496
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,500
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,964
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 124
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,968
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,972
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 66
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,977
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 66
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,981
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 64
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:27,986
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,172
+Thread - [11]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,176
+Thread - [11]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,182
+Thread - [11]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,186
+Thread - [11]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,629
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 01: 86
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,634
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 02: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,638
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 03: 63
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,642
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 04: 72
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,647
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 05: 62
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:29,651
+Thread - [11]
+Level - INFO
+Message - Average Time taken: 71.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:30,515
+Thread - [10]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:30,521
+Thread - [10]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:30,525
+Thread - [10]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:30,530
+Thread - [10]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:31,002
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 01: 132
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:31,007
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 02: 101
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:31,011
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 03: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:31,016
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 04: 59
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:31,021
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 05: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:31,026
+Thread - [10]
+Level - INFO
+Message - Average Time taken: 88
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,060
+Thread - [11]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,065
+Thread - [11]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,070
+Thread - [11]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,074
+Thread - [11]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,564
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 01: 133
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,569
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 02: 101
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,573
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 03: 77
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,578
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 04: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,582
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 05: 63
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:32,586
+Thread - [11]
+Level - INFO
+Message - Average Time taken: 88.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,314
+Thread - [7]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,318
+Thread - [7]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,323
+Thread - [7]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,327
+Thread - [7]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,869
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 01: 135
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,874
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 02: 98
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,878
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 03: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,884
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 04: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,888
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 05: 110
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:33,892
+Thread - [7]
+Level - INFO
+Message - Average Time taken: 99.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:34,648
+Thread - [13]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:34,653
+Thread - [13]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:34,658
+Thread - [13]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:34,662
+Thread - [13]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:35,283
+Thread - [13]
+Level - INFO
+Message - Time taken for Run # 01: 163
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:35,288
+Thread - [13]
+Level - INFO
+Message - Time taken for Run # 02: 102
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:35,307
+Thread - [13]
+Level - INFO
+Message - Time taken for Run # 03: 91
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:35,312
+Thread - [13]
+Level - INFO
+Message - Time taken for Run # 04: 101
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:35,317
+Thread - [13]
+Level - INFO
+Message - Time taken for Run # 05: 111
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:35,321
+Thread - [13]
+Level - INFO
+Message - Average Time taken: 113.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,152
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,156
+Thread - [8]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,162
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,166
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,823
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 139
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,827
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 110
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,832
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 118
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,836
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 102
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,840
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 99
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:36,844
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 113.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,027
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,032
+Thread - [6]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,037
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,041
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,540
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 153
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,545
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,550
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 62
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,554
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,559
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 65
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:38,563
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 86
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:43,633
+Thread - [11]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:43,639
+Thread - [11]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:43,644
+Thread - [11]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:43,650
+Thread - [11]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:57,105
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 01: 2042
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:57,111
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 02: 2182
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:57,115
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 03: 2102
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:57,120
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 04: 1915
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:57,126
+Thread - [11]
+Level - INFO
+Message - Time taken for Run # 05: 2013
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 14:59:57,133
+Thread - [11]
+Level - INFO
+Message - Average Time taken: 2050.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:12,583
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:12,588
+Thread - [6]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:12,592
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:12,596
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:26,335
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 2032
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:26,342
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 2312
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:26,346
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 2049
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:26,350
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 1905
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:26,356
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 2167
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:00:26,360
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 2093
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:03:39,828
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:03:39,853
+Thread - [4]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:03:39,858
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:03:39,862
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:04:44,452
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 12098
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:04:44,459
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 11386
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:04:44,464
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 11441
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:04:44,469
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 11325
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:04:44,474
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 11924
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:04:44,478
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 11634.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:11:45,207
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:11:45,213
+Thread - [6]
+Level - INFO
+Message - Data type: Double
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:11:45,217
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:11:45,227
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:12:58,677
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 11419
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:12:58,685
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 11834
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:12:58,690
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 12514
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:12:58,696
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 11219
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:12:58,707
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 11140
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:12:58,712
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 11625.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:20,908
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:20,932
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:20,937
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:20,942
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:21,424
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 114
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:21,432
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 87
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:21,437
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:21,442
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 82
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:21,447
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:21,451
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 89.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:22,750
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:22,756
+Thread - [6]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:22,761
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:22,765
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:23,242
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 119
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:23,247
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:23,251
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 81
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:23,256
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 86
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:23,260
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:23,265
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 88.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,028
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,037
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,041
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,045
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,514
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 98
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,520
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,525
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 84
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,529
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 70
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,534
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:25,538
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 83.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,312
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,317
+Thread - [8]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,322
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,326
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,796
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 103
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,801
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 63
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,805
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 84
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,810
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 79
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,814
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 76
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:26,818
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 81
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:27,596
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:27,601
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:27,606
+Thread - [5]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:27,615
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:28,118
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 121
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:28,128
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 76
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:28,134
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:28,140
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 79
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:28,145
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:28,149
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 90.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,031
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,036
+Thread - [8]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,041
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,045
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,532
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 122
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,537
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,541
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,546
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 78
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,551
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:29,555
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 89.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,386
+Thread - [5]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,390
+Thread - [5]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,395
+Thread - [5]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,399
+Thread - [5]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,876
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 01: 109
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,881
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 02: 81
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,885
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 03: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,890
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 04: 77
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,895
+Thread - [5]
+Level - INFO
+Message - Time taken for Run # 05: 72
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:30,899
+Thread - [5]
+Level - INFO
+Message - Average Time taken: 82.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:31,670
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:31,675
+Thread - [6]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:31,680
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:31,684
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,176
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 113
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,181
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 79
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,190
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,194
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 73
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,199
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 75
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,204
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 85.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,944
+Thread - [7]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,948
+Thread - [7]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,954
+Thread - [7]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:32,958
+Thread - [7]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:33,433
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 01: 110
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:33,438
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 02: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:33,442
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 03: 82
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:33,447
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 04: 85
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:33,455
+Thread - [7]
+Level - INFO
+Message - Time taken for Run # 05: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:33,459
+Thread - [7]
+Level - INFO
+Message - Average Time taken: 88
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,138
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,142
+Thread - [8]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,147
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,151
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,605
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 117
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,609
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 74
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,614
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 66
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,619
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 70
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,623
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 79
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:34,628
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 81.2
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,251
+Thread - [6]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,256
+Thread - [6]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,265
+Thread - [6]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,269
+Thread - [6]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,746
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 01: 92
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,751
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 02: 84
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,757
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 03: 82
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,761
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 04: 80
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,766
+Thread - [6]
+Level - INFO
+Message - Time taken for Run # 05: 82
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:35,771
+Thread - [6]
+Level - INFO
+Message - Average Time taken: 84
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,365
+Thread - [8]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,370
+Thread - [8]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,375
+Thread - [8]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,379
+Thread - [8]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,896
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 01: 96
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,901
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 02: 76
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,906
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 03: 89
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,910
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 04: 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,915
+Thread - [8]
+Level - INFO
+Message - Time taken for Run # 05: 67
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:36,921
+Thread - [8]
+Level - INFO
+Message - Average Time taken: 85.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:37,519
+Thread - [9]
+Level - INFO
+Message - Matrix Size: 100 x 100
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:37,524
+Thread - [9]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:37,529
+Thread - [9]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:37,533
+Thread - [9]
+Level - INFO
+Message - Total number of multiplications: 50000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:38,003
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 01: 93
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:38,008
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 02: 81
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:38,012
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 03: 77
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:38,016
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 04: 82
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:38,021
+Thread - [9]
+Level - INFO
+Message - Time taken for Run # 05: 82
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:38,026
+Thread - [9]
+Level - INFO
+Message - Average Time taken: 83
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:56,158
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:56,164
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:56,168
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:13:56,173
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:14:23,915
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 5158
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:14:23,923
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 5206
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:14:23,930
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 5104
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:14:23,934
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 4879
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:14:23,940
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 4917
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:14:23,944
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 5052.8
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:09,786
+Thread - [10]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:09,791
+Thread - [10]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:09,796
+Thread - [10]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:09,800
+Thread - [10]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:37,837
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 01: 5107
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:37,843
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 02: 5087
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:37,848
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 03: 4883
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:37,852
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 04: 4926
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:37,857
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 05: 4904
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:15:37,863
+Thread - [10]
+Level - INFO
+Message - Average Time taken: 4981.4
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:10,657
+Thread - [22]
+Level - INFO
+Message - Matrix Size: 500 x 500
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:10,662
+Thread - [22]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:10,666
+Thread - [22]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:10,671
+Thread - [22]
+Level - INFO
+Message - Total number of multiplications: 1250000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:38,832
+Thread - [22]
+Level - INFO
+Message - Time taken for Run # 01: 5284
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:38,837
+Thread - [22]
+Level - INFO
+Message - Time taken for Run # 02: 4839
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:38,842
+Thread - [22]
+Level - INFO
+Message - Time taken for Run # 03: 5072
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:38,846
+Thread - [22]
+Level - INFO
+Message - Time taken for Run # 04: 5021
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:38,853
+Thread - [22]
+Level - INFO
+Message - Time taken for Run # 05: 4919
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:16:38,858
+Thread - [22]
+Level - INFO
+Message - Average Time taken: 5027
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:17:35,560
+Thread - [46]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:17:35,565
+Thread - [46]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:17:35,569
+Thread - [46]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:17:35,573
+Thread - [46]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:18:07,717
+Thread - [4]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:18:07,741
+Thread - [4]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:18:07,745
+Thread - [4]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:18:07,750
+Thread - [4]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:21:35,904
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 01: 40860
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:21:35,909
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 02: 41696
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:21:35,914
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 03: 40886
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:21:35,918
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 04: 41455
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:21:35,924
+Thread - [4]
+Level - INFO
+Message - Time taken for Run # 05: 40788
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:21:35,928
+Thread - [4]
+Level - INFO
+Message - Average Time taken: 41137
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:22:03,684
+Thread - [10]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:22:03,690
+Thread - [10]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:22:03,694
+Thread - [10]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:22:03,698
+Thread - [10]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:25:27,001
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 01: 39296
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 412
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:25:27,008
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 02: 40094
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 413
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:25:27,012
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 03: 40414
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 414
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:25:27,017
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 04: 40211
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 415
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:25:27,021
+Thread - [10]
+Level - INFO
+Message - Time taken for Run # 05: 40748
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 416
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:25:27,025
+Thread - [10]
+Level - INFO
+Message - Average Time taken: 40152.6
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 417
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:26:04,939
+Thread - [15]
+Level - INFO
+Message - Matrix Size: 1000 x 1000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 286
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:26:04,944
+Thread - [15]
+Level - INFO
+Message - Data type: Decimal
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 292
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:26:04,948
+Thread - [15]
+Level - INFO
+Message - Threading type: Task Parallel Library
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 295
+Method - backgroundWorker1_DoWork
+
+
+Date - 15:26:04,952
+Thread - [15]
+Level - INFO
+Message - Total number of multiplications: 5000000
+Exception - 
+Username - SADIQ\Sadiq
+Line number - 300
+Method - backgroundWorker1_DoWork
+
+

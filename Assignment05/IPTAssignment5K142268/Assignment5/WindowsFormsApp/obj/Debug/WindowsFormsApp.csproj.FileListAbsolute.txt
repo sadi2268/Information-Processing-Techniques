@@ -1,0 +1,12 @@
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\bin\Debug\log4net.dll
+C:\Users\Israr\source\repos\Assignment5\WindowsFormsApp\bin\Debug\log4net.xml
