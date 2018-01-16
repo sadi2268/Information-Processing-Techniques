@@ -1,0 +1,10 @@
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\bin\Debug\netcoreapp1.1\assignment1_partb_q1.deps.json
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\bin\Debug\netcoreapp1.1\assignment1_partb_q1.runtimeconfig.json
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\bin\Debug\netcoreapp1.1\assignment1_partb_q1.runtimeconfig.dev.json
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\bin\Debug\netcoreapp1.1\assignment1_partb_q1.dll
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\bin\Debug\netcoreapp1.1\assignment1_partb_q1.pdb
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\obj\Debug\netcoreapp1.1\assignment1_partb_q1.csprojResolveAssemblyReference.cache
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\obj\Debug\netcoreapp1.1\assignment1_partb_q1.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\obj\Debug\netcoreapp1.1\assignment1_partb_q1.AssemblyInfo.cs
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\obj\Debug\netcoreapp1.1\assignment1_partb_q1.dll
+C:\Users\Israr\source\repos\assignment1_partb_q1\assignment1_partb_q1\obj\Debug\netcoreapp1.1\assignment1_partb_q1.pdb
