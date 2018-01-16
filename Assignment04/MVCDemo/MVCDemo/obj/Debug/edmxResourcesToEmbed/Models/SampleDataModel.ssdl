@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Models.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SeqNo" Type="tinyint" Nullable="false" />
+    <Property Name="ParentCategoryId" Type="int" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PrimaryCategoryId" Type="int" Nullable="false" />
+    <Property Name="ProductDescription" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+    <Property Name="ProductPrice" Type="money" Nullable="false" />
+    <Property Name="OtherAttributes" Type="xml" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductSecondaryCategory">
+    <Key>
+      <PropertyRef Name="RowId" />
+    </Key>
+    <Property Name="RowId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Category__Parent__59063A47">
+    <End Role="Category" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Category1" Type="Self.Category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Category1">
+        <PropertyRef Name="ParentCategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Product__Primary__5BE2A6F2">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="PrimaryCategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSe__Categ__5FB337D6">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="ProductSecondaryCategory" Type="Self.ProductSecondaryCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="ProductSecondaryCategory">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSe__Produ__5EBF139D">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ProductSecondaryCategory" Type="Self.ProductSecondaryCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="ProductSecondaryCategory">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelsStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductSecondaryCategory" EntityType="Self.ProductSecondaryCategory" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Category__Parent__59063A47" Association="Self.FK__Category__Parent__59063A47">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Category1" EntitySet="Category" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Product__Primary__5BE2A6F2" Association="Self.FK__Product__Primary__5BE2A6F2">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSe__Categ__5FB337D6" Association="Self.FK__ProductSe__Categ__5FB337D6">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="ProductSecondaryCategory" EntitySet="ProductSecondaryCategory" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSe__Produ__5EBF139D" Association="Self.FK__ProductSe__Produ__5EBF139D">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductSecondaryCategory" EntitySet="ProductSecondaryCategory" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

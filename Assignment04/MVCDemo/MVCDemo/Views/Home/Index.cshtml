@@ -1,0 +1,147 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using MVCDemo.Models;
+@model IPagedList<MVCDemo.Models.Product>
+@using System.Linq;
+@using System.Xml.Linq;
+@using System.Xml;
+@using System.Text.RegularExpressions;
+
+@{
+
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Search Products:</h2>
+<p>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+    {
+        @Html.TextBox("name", "", new { placeholder = "Name"})  <text>&nbsp;&nbsp;</text>  @Html.TextBox("description", "", new { placeholder = "Description", style = "width: 360px;" })        <br /><br />
+        //List<string> sizes = new List<string>() {"red", "blue" };
+        <input type="submit" value="Search" />
+    }
+
+</p>
+
+<h2>Results:</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Name", "Index", new
+               {
+                   sortBy = ViewBag.SortNameParameter,
+                   name = Request.QueryString["name"], description = Request.QueryString["description"]
+               } )
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            @Html.ActionLink("Price", "Index", new
+               {
+                   sortBy = ViewBag.SortPriceParameter,
+                   name = Request.QueryString["name"], description = Request.QueryString["description"]
+               })
+        </th>
+        <th>
+            Categories
+        </th>
+        <th>
+            Sizes
+        </th>
+        <th>
+            Colors
+        </th>
+        <th>
+            Dimensions
+        </th>
+    </tr>
+
+@if(Model.Count() == 0)
+{
+    <tr>
+        <td colspan="5" style="font-size: 24px">
+            No products match your search criteria.
+        </td>
+    </tr>
+}
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductPrice)
+        </td>
+        <td> 
+            @Html.DisplayFor(modelItem => item.Category.CategoryName)
+        </td>
+        <td>
+            @{
+                string input = item.OtherAttributes;
+                string pattern = @"<Size>\w+\s*";
+                Regex rgx = new Regex(pattern, RegexOptions.IgnoreCase);
+                MatchCollection matches = rgx.Matches(input);
+                string mysizes="";
+                if (matches.Count > 0)
+                {
+                    foreach (Match match in matches)
+                    {
+                        mysizes += match.Value.Substring(6) +", ";
+                    }
+                }
+
+            }
+            @Html.DisplayFor(modelItem => @mysizes)
+        </td>
+        <td>
+            @{
+                pattern = @"<Color>\w+\s*";
+                rgx = new Regex(pattern, RegexOptions.IgnoreCase);
+                matches = rgx.Matches(input);
+                string mycolors = "";
+                if (matches.Count > 0)
+                {
+                    foreach (Match match in matches)
+                    {
+                        mycolors += match.Value.Substring(7) + ", ";
+                    }
+                }
+
+            }
+            @Html.DisplayFor(modelItem => @mycolors)
+        </td>
+        <td>
+            @{
+                pattern = @"<Dimensions>.*</Dimensions>";
+                rgx = new Regex(pattern, RegexOptions.IgnoreCase);
+                matches = rgx.Matches(input);
+                string mydimen = "";
+                if (matches.Count > 0)
+                {
+                    foreach (Match match in matches)
+                    {
+                        mydimen += match.Value.Substring(12) + ", ";
+                    }
+                }
+
+            }
+            @Html.DisplayFor(modelItem => @mydimen)
+
+
+        </td>
+    </tr>
+}
+
+</table>
+@Html.PagedListPager(Model,
+    page => Url.Action("Index", new { page, name = Request.QueryString["name"], description = Request.QueryString["description"], sortBy = Request["sortBy"] } ),
+    new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true, DisplayItemSliceAndTotal = true }
+    )
