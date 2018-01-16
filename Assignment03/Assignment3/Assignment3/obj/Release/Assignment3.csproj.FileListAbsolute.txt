@@ -1,0 +1,13 @@
+C:\Users\Israr\source\repos\Assignment3\Assignment3\bin\Release\Assignment3.exe.config
+C:\Users\Israr\source\repos\Assignment3\Assignment3\bin\Release\Assignment3.exe
+C:\Users\Israr\source\repos\Assignment3\Assignment3\bin\Release\Assignment3.pdb
+C:\Users\Israr\source\repos\Assignment3\Assignment3\bin\Release\XMLHandler.dll
+C:\Users\Israr\source\repos\Assignment3\Assignment3\bin\Release\XMLHandler.pdb
+C:\Users\Israr\source\repos\Assignment3\Assignment3\bin\Release\XMLHandler.dll.config
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.ProjectInstaller.resources
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.Service1.resources
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.csproj.GenerateResource.Cache
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.exe
+C:\Users\Israr\source\repos\Assignment3\Assignment3\obj\Release\Assignment3.pdb

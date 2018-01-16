@@ -1,0 +1,6 @@
+C:\Users\Israr\source\repos\Assignment3\XMLHandler\bin\Release\XMLHandler.dll.config
+C:\Users\Israr\source\repos\Assignment3\XMLHandler\bin\Release\XMLHandler.dll
+C:\Users\Israr\source\repos\Assignment3\XMLHandler\bin\Release\XMLHandler.pdb
+C:\Users\Israr\source\repos\Assignment3\XMLHandler\obj\Release\XMLHandler.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\Assignment3\XMLHandler\obj\Release\XMLHandler.dll
+C:\Users\Israr\source\repos\Assignment3\XMLHandler\obj\Release\XMLHandler.pdb

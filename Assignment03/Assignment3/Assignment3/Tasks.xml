@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks>
+    <Task name="Secure Backup" type="Secure Backup">
+        <Occurence starttime="20171120 07:00" repeat="1m" endtime="20171121 11:15"/>
+        <SecureBackup src="C:\\ImportantFile.txt" dest="D:\\BackupFolder"/>
+    </Task>
+    <Task name="Secure Restore" type="Secure Restore">
+        <Occurence starttime="20171120 07:00" repeat="5m" endtime="20171121 11:15"/>
+        <SecureRestore src="D:\\BackupFolder" dest="D:\\ImportantFileRestored.txt" />
+    </Task>
+    <Task name="Get all processes" type="Process Get">
+        <Occurence starttime="20171120 07:00" repeat="30m" endtime="20171121 11:15"/>
+        <ProcessGet dest="D:\\AllProcesses.txt" />
+    </Task>
+</Tasks>
