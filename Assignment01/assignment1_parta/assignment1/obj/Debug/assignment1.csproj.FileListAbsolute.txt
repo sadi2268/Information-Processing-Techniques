@@ -1,0 +1,7 @@
+C:\Users\Israr\source\repos\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Israr\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\Israr\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\Israr\source\repos\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\Israr\source\repos\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\Israr\source\repos\assignment1\assignment1\obj\Debug\assignment1.pdb
