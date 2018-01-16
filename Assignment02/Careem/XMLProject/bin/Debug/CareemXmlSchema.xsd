@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:simpleType name="RegType">
+        <xs:restriction base="xs:string">
+            <xs:length value="8"/>
+            <xs:pattern value="[a-zA-Z0-9]{8}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TypeType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="Economy|Business|Luxury/VIP|Large Capacity|([A-Za-z])+"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="MakeType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="Toyota|Honda|Nissan|Suzuki|Yamaha|Mazda|([A-Za-z])+"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="ModelType">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="20"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="AccessoryType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(A-Za-z)+|Rear air-conditioner|Cup-holders|Sun/Moon Roof|Fog lights|TV|Navigation system|Rear-view cameras|Proximity sensors|Leather seats|Cold storage"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="NameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[A-Za-z]+"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="CnicType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]{5}[-][0-9]{7}[-][0-9]"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="ImeiType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]{15}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:element name="vehicles">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="vehicle" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>                            
+                            <xs:element name="RegNum" type="RegType"/>
+                            <xs:element name="make" type="MakeType"/>
+                            <xs:element name="model" type="ModelType"/>
+                            <xs:element name="year">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:gYear">
+                                        <xs:minInclusive value="1980"/>
+                                        <xs:maxInclusive value="2017"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element> 
+                            <xs:element name="type" type="TypeType"/>
+                            <xs:element minOccurs="0" name="imei" type="ImeiType"/>
+                            <xs:element minOccurs="0" name="accessories">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element maxOccurs="50" name="accessory" type="AccessoryType"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element minOccurs="0" name="drivers">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element maxOccurs="5" name="driver">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="FirstName" type="NameType"/>
+                                                    <xs:element name="LastName" type="NameType"/>
+                                                    <xs:element name="cnic" type="CnicType"/>
+                                                  <xs:element name="rating">
+                                                      <xs:simpleType >
+                                                          <xs:restriction base="xs:decimal">
+                                                              <xs:minInclusive value="1.0"></xs:minInclusive>
+                                                              <xs:maxInclusive value="5.0"></xs:maxInclusive>
+                                                              <xs:fractionDigits value="1"></xs:fractionDigits>
+                                                          </xs:restriction>
+                                                      </xs:simpleType>
+                                                  </xs:element>
+                                                    
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+        <xs:unique name="RegUnique">
+            <xs:selector xpath="vehicle"></xs:selector>
+            <xs:field xpath="RegNum"></xs:field>
+        </xs:unique>
+        <xs:unique name="IMEIUnique">
+            <xs:selector xpath="vehicle"></xs:selector>
+            <xs:field xpath="imei"></xs:field>
+        </xs:unique>
+        <xs:unique name="CNICUnique">
+            <xs:selector xpath="vehicle/drivers/driver"></xs:selector>
+            <xs:field xpath="cnic"></xs:field>
+        </xs:unique>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,6 @@
+C:\Users\Israr\source\repos\Careem\CareemEntities\bin\Debug\CareemEntities.dll
+C:\Users\Israr\source\repos\Careem\CareemEntities\bin\Debug\CareemEntities.pdb
+C:\Users\Israr\source\repos\Careem\CareemEntities\obj\Debug\CareemEntities.csprojResolveAssemblyReference.cache
+C:\Users\Israr\source\repos\Careem\CareemEntities\obj\Debug\CareemEntities.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\Careem\CareemEntities\obj\Debug\CareemEntities.dll
+C:\Users\Israr\source\repos\Careem\CareemEntities\obj\Debug\CareemEntities.pdb

@@ -1,0 +1,8 @@
+C:\Users\Israr\source\repos\Careem\XMLProject\bin\Debug\XMLProject.dll
+C:\Users\Israr\source\repos\Careem\XMLProject\bin\Debug\XMLProject.pdb
+C:\Users\Israr\source\repos\Careem\XMLProject\obj\Debug\XMLProject.csproj.CoreCompileInputs.cache
+C:\Users\Israr\source\repos\Careem\XMLProject\obj\Debug\XMLProject.dll
+C:\Users\Israr\source\repos\Careem\XMLProject\obj\Debug\XMLProject.pdb
+C:\Users\Israr\source\repos\Careem\XMLProject\obj\Debug\XMLProject.csprojResolveAssemblyReference.cache
+C:\Users\Israr\source\repos\Careem\XMLProject\bin\Debug\CareemEntities.dll
+C:\Users\Israr\source\repos\Careem\XMLProject\bin\Debug\CareemEntities.pdb
